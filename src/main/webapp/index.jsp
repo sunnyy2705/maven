@@ -2,8 +2,5 @@
 <body>
 <h2>Hello World!</h2>
 <h3>HIIee<h3>
-<h4>Heyy<h4>
-<h5>Sam<h5>
-<h6>Sunnu<h6>
 </body>
 </html>
